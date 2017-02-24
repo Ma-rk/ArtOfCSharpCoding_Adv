@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_1_04_parrallel", "Ch_1_04_parrallel\Ch_1_04_parrallel.csproj", "{DE5DC5A0-9F43-4593-9FC8-3E93A8F181DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_1_05_async", "Ch_1_05_async\Ch_1_05_async.csproj", "{09DE95FC-EF17-4FCC-AA84-5632E4E96141}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{DE5DC5A0-9F43-4593-9FC8-3E93A8F181DE}.Debug|x86.Build.0 = Debug|x86
 		{DE5DC5A0-9F43-4593-9FC8-3E93A8F181DE}.Release|x86.ActiveCfg = Release|x86
 		{DE5DC5A0-9F43-4593-9FC8-3E93A8F181DE}.Release|x86.Build.0 = Release|x86
+		{09DE95FC-EF17-4FCC-AA84-5632E4E96141}.Debug|x86.ActiveCfg = Debug|x86
+		{09DE95FC-EF17-4FCC-AA84-5632E4E96141}.Debug|x86.Build.0 = Debug|x86
+		{09DE95FC-EF17-4FCC-AA84-5632E4E96141}.Release|x86.ActiveCfg = Release|x86
+		{09DE95FC-EF17-4FCC-AA84-5632E4E96141}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
