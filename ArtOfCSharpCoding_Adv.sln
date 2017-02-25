@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_1_06_dispose", "Ch_1_06_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_2_05_checked", "Ch_2_05_checked\Ch_2_05_checked.csproj", "{A7BC83C9-1CC7-4497-BB55-A6E76DF15814}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_2_13_doesNothing", "Ch_2_13_doesNothing\Ch_2_13_doesNothing.csproj", "{60B0E32A-7E47-489E-A28B-FD8EFFACB488}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,5 +33,9 @@ Global
 		{A7BC83C9-1CC7-4497-BB55-A6E76DF15814}.Debug|x86.Build.0 = Debug|x86
 		{A7BC83C9-1CC7-4497-BB55-A6E76DF15814}.Release|x86.ActiveCfg = Release|x86
 		{A7BC83C9-1CC7-4497-BB55-A6E76DF15814}.Release|x86.Build.0 = Release|x86
+		{60B0E32A-7E47-489E-A28B-FD8EFFACB488}.Debug|x86.ActiveCfg = Debug|x86
+		{60B0E32A-7E47-489E-A28B-FD8EFFACB488}.Debug|x86.Build.0 = Debug|x86
+		{60B0E32A-7E47-489E-A28B-FD8EFFACB488}.Release|x86.ActiveCfg = Release|x86
+		{60B0E32A-7E47-489E-A28B-FD8EFFACB488}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
