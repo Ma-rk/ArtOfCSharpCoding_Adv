@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_2_13_doesNothing", "Ch_2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_02_firstSingle", "Ch_3_02_firstSingle\Ch_3_02_firstSingle.csproj", "{29404BAD-EFBE-465B-99A4-7CF857AE8B6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_04_array_IEnumerableT", "Ch_3_04_array_IEnumerableT\Ch_3_04_array_IEnumerableT.csproj", "{224B558C-D584-46F6-ADC6-BF53F0571F77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,5 +45,9 @@ Global
 		{29404BAD-EFBE-465B-99A4-7CF857AE8B6F}.Debug|x86.Build.0 = Debug|x86
 		{29404BAD-EFBE-465B-99A4-7CF857AE8B6F}.Release|x86.ActiveCfg = Release|x86
 		{29404BAD-EFBE-465B-99A4-7CF857AE8B6F}.Release|x86.Build.0 = Release|x86
+		{224B558C-D584-46F6-ADC6-BF53F0571F77}.Debug|x86.ActiveCfg = Debug|x86
+		{224B558C-D584-46F6-ADC6-BF53F0571F77}.Debug|x86.Build.0 = Debug|x86
+		{224B558C-D584-46F6-ADC6-BF53F0571F77}.Release|x86.ActiveCfg = Release|x86
+		{224B558C-D584-46F6-ADC6-BF53F0571F77}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
