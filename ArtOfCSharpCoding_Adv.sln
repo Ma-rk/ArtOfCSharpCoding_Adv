@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_04_array_IEnumerableT"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_06_cast_ofType", "Ch_3_06_cast_ofType\Ch_3_06_cast_ofType.csproj", "{26498FF1-2736-47EF-8801-61B49E9DCB6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_09_LengthCount", "Ch_3_09_LengthCount\Ch_3_09_LengthCount.csproj", "{9524FAF6-B2E2-431F-8712-1BB730B12AC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,5 +57,9 @@ Global
 		{26498FF1-2736-47EF-8801-61B49E9DCB6C}.Debug|x86.Build.0 = Debug|x86
 		{26498FF1-2736-47EF-8801-61B49E9DCB6C}.Release|x86.ActiveCfg = Release|x86
 		{26498FF1-2736-47EF-8801-61B49E9DCB6C}.Release|x86.Build.0 = Release|x86
+		{9524FAF6-B2E2-431F-8712-1BB730B12AC5}.Debug|x86.ActiveCfg = Debug|x86
+		{9524FAF6-B2E2-431F-8712-1BB730B12AC5}.Debug|x86.Build.0 = Debug|x86
+		{9524FAF6-B2E2-431F-8712-1BB730B12AC5}.Release|x86.ActiveCfg = Release|x86
+		{9524FAF6-B2E2-431F-8712-1BB730B12AC5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
